@@ -12,7 +12,7 @@ def encrypt(string1):
 	return array_of_char
 
 
-def decrypt();
+def decrypt():
 	print "ran"
 
 
